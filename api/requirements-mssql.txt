@@ -1,0 +1,3 @@
+# MSSQL driver — ติดตั้งเพิ่มเฉพาะตอนใช้ /sync
+pymssql>=2.3.0
+
